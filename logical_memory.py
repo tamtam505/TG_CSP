@@ -1,6 +1,6 @@
 # TG, Logical and Physical memory notes
 
-pi = 3.141 592
+pi = 3.141592
 
 school = "UCAS"
 
