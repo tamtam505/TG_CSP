@@ -16,8 +16,15 @@ for letter in password:
 
 # update length variable 
  if len(password) >= 8:
+# update variable
+  length = True
+
+# check if upper
+
+#check if lower
 
 # update upper case variable to True
+
 
 # .islower()
 # .isnumeric()
