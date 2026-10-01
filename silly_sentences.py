@@ -7,4 +7,4 @@ room = input("Tell me a room in the house:")
 verb = input("Tell me a past tense verb:") 
 name = input("Tell me a name")
 
-             
+print("It was an {adjective} morning ")

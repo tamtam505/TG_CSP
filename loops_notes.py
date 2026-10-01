@@ -15,10 +15,10 @@ while True:
         break # ends the loop
     print("Duck. . . .")
     ducks += 1 #ducks = ducks + 1
-print("GOOSE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+print("GOOSE!")
 
 # Complex Data Type = holds other data in it
-siblings = ["Alex", "Katie", "Andrew", "Tia", "Treyson", "Xavier", "Jake"] # -> surround by brackets -> every item separated by commas-> must be valid data type
+siblings = ["Alex", "Katie", "Andrew", "Tia", "Treyson", "Xavier", "Jake"] 
 print(siblings[2])
 # Append to a list
 name = input ("What is your name: ")
